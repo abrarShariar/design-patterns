@@ -1,6 +1,6 @@
 <?php
 
-require('./eReaderInterface.php');
+require_once('./eReaderInterface.php');
 
 class Kindle implements eReaderInterface 
 {

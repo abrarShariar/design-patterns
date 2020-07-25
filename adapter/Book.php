@@ -1,6 +1,6 @@
 <?php
 
-require('./BookInterface.php');
+require_once('./BookInterface.php');
 
 class Book implements BookInterface {
 

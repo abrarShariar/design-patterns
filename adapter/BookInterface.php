@@ -1,6 +1,6 @@
 <?php
 
-interface BookInterface 
+interface BookInterface
 {
 	public function open();
 	public function turnPage();
